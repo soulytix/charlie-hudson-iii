@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://soulytix.github.io/charlie-hudson-iii/sitemap.xml
